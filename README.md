@@ -1,14 +1,77 @@
-Salut, je m'appelle Alexis ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) =========== =================================================== =================================================== ====================== Étudiant en Cybersécurité, Informatique et réseaux, Electronique ------------------- --------------------------------------------- Je m'intéresse à la programmation depuis septembre 2023. J'ai commencé avec Lua pour développer pour GTA RP (FiveM). Ensuite, je me suis orienté vers le développement web, ce qui m'a amené à envisager une reconversion professionnelle pour l'année prochaine. Passionné depuis toujours par la cybersécurité, j'ai décidé de poursuivre des études dans ce domaine. * 🌍 Je suis basé à Paris * ✉️ Vous pouvez me contacter à [alexis.inacio78@gmail.com](mailto:alexis.inacio78@gmail.com)[](mailto:alexis.inacio78@gmail.com) * 🧠 J 'apprend Python, JavaScript et C++
+<h1 align="left">Salut, je m'appelle Alexis</h1>
 
-### Compétences
+###
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https ://raw.githubusercontent.com/danielcraney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/ public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://docs.microsoft.com/en- us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills /cplusplus-colored.svg" width="36" height="36" alt="C++" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel ="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt= "VS Code" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src= "https://raw.githubusercontent.com/danielcraney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></ a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ danielcraney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https:// nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored .svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target=" _blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcraney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" width="36" height="36" alt="After Effects" /></a> <a href= "https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator /main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a> <a href="https://www. figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg " width="36" height="36" alt="Figma" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/ public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
-</p>
+<h3 align="left">Étudiant en Cybersécurité, Informatique et réseaux, Electronique</h3>
 
-### Réseaux sociaux
+###
 
-<p align="left"> </p> <a href="https://discord.com/users/582193387382243339" target="_blank" rel="noreferrer"> <image> <source media="(prefers-color-scheme: dark)" srcset="https ://raw.githubusercontent.com/danielcraney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/ main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/FlytziTv" cible ="_blank" rel="noreferrer"> <image> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public /icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public /icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" hauteur ="32" /> </picture> </a> <a href="http://www.instagram.com/aalexis.in" target="_blank" rel="noreferrer"> <picture> <média source ="(préfère le schéma de couleurs : sombre)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <média source ="(préfère le schéma de couleurs : clair)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src=" https://raw.githubusercontent.com/danielcraney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/alexis-inacio-957a58259" target="_blank" rel="noreferrer"> <image> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcraney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent. com/danielcraney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials /linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/FlytziTv" target="_blank" rel="noreferrer"> <image> <source media="(préfère-color-scheme : sombre)" srcset="https ://raw.githubusercontent.com/danielcraney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https ://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/ main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/flytzitv" cible ="_blank" rel="noreferrer"> <image> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public /icons/socials/twitch-dark.svg" /> <source media="(préfère-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public /icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" hauteur ="32" /> </image> </a>
-### Insignes
+<p align="left">Je m'intéresse à la programmation depuis septembre 2023. J'ai commencé avec Lua pour développer pour GTA RP (FiveM). Ensuite, je me suis orienté vers le développement web, ce qui m'a amené à envisager une reconversion professionnelle pour l'année prochaine. Passionné depuis toujours par la cybersécurité, j'ai décidé de poursuivre des études dans ce domaine.<br><br>- 🌍 Je suis basé à Paris<br>- ✉️ Vous pouvez me contacter à alexis.inacio78@gmail.com<br>- 🧠 J'apprends Python, JavaScript et C++</p>
 
-<a href="https://github.com/FlytziTv" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlytziTv&langs_count =10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Principales langues" /></a>
+###
+
+<h3 align="left">Compétences</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="30" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+</div>
+
+###
+
+<h3 align="left">Réseaux sociaux</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCcDZlLUZ0Z6AkpYiLnhnlDQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/aalexis.in/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/FlytziTv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="mailto:alexis.inacio78@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/alexis-inacio-957a58259/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=FlytziTv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=FlytziTv&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FlytziTv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph"  />
+</div>
+
+###
