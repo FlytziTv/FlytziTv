@@ -1,12 +1,6 @@
 <h1 align="left">Salut, je m'appelle Alexis</h1>
 
-###
-
-<h3 align="left">Futur Étudiant en Cybersécurité, Informatique et réseaux, Electronique</h3>
-
-###
-
-<p align="left">Je m'intéresse à la programmation depuis septembre 2023. J'ai commencé avec Lua pour développer pour GTA RP (FiveM). Ensuite, je me suis orienté vers le développement web, ce qui m'a amené à envisager une reconversion professionnelle pour l'année prochaine. Passionné depuis toujours par la cybersécurité, j'ai décidé de poursuivre des études dans ce domaine.<br><br>- 🌍 Je suis basé à Paris<br>- ✉️ Vous pouvez me contacter à alexis.inacio78@gmail.com<br>- 🧠 J'apprends Python, JavaScript et C++</p>
+<p align="left">Je m'intéresse à la programmation depuis septembre 2023. J'ai commencé avec Lua pour développer pour GTA RP (FiveM). Ensuite, je me suis orienté vers le développement web, ce qui m'a amené à envisager une reconversion professionnelle. <br><br>- 🌍 Je suis basé à Paris<br>- ✉️ Vous pouvez me contacter à alexis.inacio78@gmail.com<br>- 🧠 J'apprends Python, JavaScript </p>
 
 ###
 
@@ -19,17 +13,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="30" alt="photoshop logo"  />
   <img width="12" />
@@ -44,20 +36,11 @@
 
 ###
 
-<h3 align="left">Réseaux sociaux</h3>
+<h3 align="left">Réseaux Pro</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/channel/UCcDZlLUZ0Z6AkpYiLnhnlDQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/aalexis.in/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/FlytziTv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
   <a href="mailto:alexis.inacio78@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
